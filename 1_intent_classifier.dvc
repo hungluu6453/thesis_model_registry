@@ -1,0 +1,5 @@
+outs:
+- md5: de28b65147cc9fe9850a27efd7849bfa.dir
+  size: 195416
+  nfiles: 5
+  path: 1_intent_classifier
