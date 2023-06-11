@@ -1,3 +1,7 @@
-# Add patterns of files dvc should ignore, which could improve
-# the performance. Learn more at
-# https://dvc.org/doc/user-guide/dvcignore
+# 0_vncorenlp
+# 1_intent_classifier
+# 2_named_entity_recognizer
+# 3_question_retriever
+# 4_context_retreiever
+5_reranker
+# 6_quesion_answering
